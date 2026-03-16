@@ -16,4 +16,4 @@ A high-fidelity, multi-page web exploration of the **Kardashev Scale**, designed
 * **CSS3:** Custom variables, Glassmorphism effects, and responsive `@media` queries.
 * **Midjourney:** AI-driven art for the "Identity" logo and 16:9 cinematic backgrounds.
 
-**Website hosted at this link:** [https://mantodinas.github.io/scale-of-advancement/](https://mantodinas.github.io/scale-of-advancement/)
+**Website hosted at this link:** [https://mantodinas.github.io/scale-of-dvancement/)
